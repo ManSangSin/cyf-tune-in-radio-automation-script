@@ -1,6 +1,8 @@
-name: 'The name of your action here'
-description: 'Provide a description here'
-author: 'Your name or organization here'
+name: 'CYF Tune In Radio Automation Script'
+description:
+  'Automated script to assist with the updating of the playlist from the Tune in
+  Radio Project'
+author: 'Man Sang Sin'
 
 # Define your inputs here.
 inputs:
